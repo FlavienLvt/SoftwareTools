@@ -1,6 +1,4 @@
 import org.junit.jupiter.api.Test;
-import sk.fri.Rating;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class RatingTest {

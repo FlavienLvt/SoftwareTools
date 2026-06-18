@@ -1,5 +1,3 @@
-package sk.fri;
-
 public class Rating {
     public char determineResultGrade(int points) {
         if (points < 0 || points > 100) {
