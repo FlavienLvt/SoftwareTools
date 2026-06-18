@@ -1,0 +1,26 @@
+## OS files
+.DS_Store
+Thumbs.db
+
+## IDE settings
+.idea/
+.vscode/
+*.iml
+
+## Java / Maven build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+## Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+## Test and coverage caches
+.pytest_cache/
+.coverage
+coverage/
