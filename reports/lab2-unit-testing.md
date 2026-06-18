@@ -1,7 +1,6 @@
 # Lab 2 - Unit Testing & Coverage Report
 
 ## 1. Coverage Screenshot
-*(Ensure the corresponding image is saved in the repository, for example as `coverage-result.png`)*
 
 ![Coverage Result](./coverage_result.png)
 
